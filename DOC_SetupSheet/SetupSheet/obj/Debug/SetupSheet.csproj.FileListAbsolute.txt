@@ -1,0 +1,17 @@
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\bin\Debug\SetupSheet.dll
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\bin\Debug\SetupSheet.pdb
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\SetupSheet.csproj.AssemblyReference.cache
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\SetupSheet.csproj.ResolveComReference.cache
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\ToolSheetPaneWPF.g.cs
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\SetupSheet_MarkupCompile.cache
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\ToolSheetPaneWPF.baml
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\SetupSheet.g.resources
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\SetupSheet.Options.resources
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\SetupSheet.Properties.Resources.resources
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\SetupSheet.csproj.GenerateResource.cache
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\SetupSheet.csproj.CoreCompileInputs.cache
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\SetupSheet.csproj.Up2Date
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\SetupSheet.dll
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\SetupSheet.pdb
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\bin\Debug\SetupSheet.tlb
+C:\2\text-generation-webui-main\powermill-api-examples\powermill-api-examples-master\addin-excel-setup-sheet\SetupSheet\obj\Debug\SetupSheet_MarkupCompile.lref
