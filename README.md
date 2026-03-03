@@ -61,7 +61,7 @@ SetupSheet.dll
 
 Create plugin folder, for example:
 
-C:`\Program `{=tex}Files`\Autodesk`{=tex}`\DOC`{=tex}\_SetupSheet\
+C:\Program Files\Autodesk\DOC_sheet 2024\
 
 Copy:
 
@@ -75,13 +75,11 @@ Copy:
 
 Run command prompt as Administrator:
 
-C:`\WINDOWS`{=tex}`\Microsoft`{=tex}.NET`\Framework64`{=tex}`\v4`{=tex}.0.30319`\regasm`{=tex}.exe
-"C:`\Program `{=tex}Files`\Autodesk`{=tex}`\DOC`{=tex}\_SetupSheet`\SetupSheet`{=tex}.dll"
-/register /codebase
+C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\regasm.exe "C:\Program Files\Autodesk\DOC_SetupSheet\SetupSheet.dll" /register /codebase
 
-reg.exe ADD
-"HKCR`\CLSID`{=tex}{8C96851C-7A01-4389-8FBF-22C3DC7B09FD}`\Implemented `{=tex}Categories{311b0135-1826-4a8c-98de-f313289f815e}"
-/reg:64 /f
+reg.exe ADD "HKCR\CLSID\{8C96851C-7A01-4389-8FBF-22C3DC7B09FD}\Implemented Categories\{311b0135-1826-4a8c-98de-f313289f815e}" /reg:64 /f
+
+or DOC_sheet 2024/DOCSetupSheet.bat
 
 ------------------------------------------------------------------------
 
@@ -111,26 +109,26 @@ reg.exe ADD
 
 ## 🧩 Template Placeholders
 
-  Placeholder     Description
-  --------------- ------------------
-  {article}       Article
-  {material}      Material
-  {machines}      Machine
-  {stockSize}     Stock size
-  {projectPath}   Project path
-  {ncList}        NC programs
-  {toolsList}     Tools list
-  {time}          Machining time
-  {comments}      Comments
-  {screenshot}    Screenshot image
+ | Плейсхолдер     | Значение            |
+| --------------- | ------------------- |
+| `{article}`     | Артикул             |
+| `{material}`    | Материал            |
+| `{machines}`    | Станок              |
+| `{stockSize}`   | Заготовка           |
+| `{projectPath}` | Путь к проекту      |
+| `{ncList}`      | Список NC           |
+| `{toolsList}`   | Инструменты         |
+| `{time}`        | Время обработки     |
+| `{comments}`    | Комментарии         |
+| `{screenshot}`  | Вставка изображения |
 
-⚠ Placeholders must match exactly (case-sensitive).
 
 ------------------------------------------------------------------------
 
 ## 📁 Project Structure
 
-SetupSheet/ ├── ToolSheet.cs\
+SetupSheet/ 
+├── ToolSheet.cs\
 ├── ToolSheetPaneWPF.xaml\
 ├── ToolSheetPaneWPF.xaml.cs\
 ├── DocumentGenerator.cs\
